@@ -18,3 +18,6 @@ SELECT id, title FROM posts;
 
 # Run seeds
 python3 seeds.py
+
+# Run flask
+python3 -m flask run
